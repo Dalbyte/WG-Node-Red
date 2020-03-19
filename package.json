@@ -2,7 +2,10 @@
     "name": "WG-Node-Red",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-telegrambot": "7.1.1",
+        "node-red-contrib-telegrambot-home": "0.5.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "wg.json",
