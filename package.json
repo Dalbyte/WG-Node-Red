@@ -3,8 +3,7 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-telegrambot": "7.1.1",
-        "node-red-contrib-telegrambot-home": "0.5.2"
+        "node-red-contrib-telegrambot": "7.1.1"
     },
     "node-red": {
         "settings": {
