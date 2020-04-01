@@ -4,7 +4,8 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-telegrambot": "7.1.1",
-        "node-red-contrib-fs-ops" : "1.5.0"
+        "node-red-contrib-moment": "3.0.3",
+        "node-red-contrib-fs-ops": "1.5.0"
     },
     "node-red": {
         "settings": {
