@@ -1,6 +1,16 @@
 WG-Node-Red
 ===========
 
+## Networkprinte MFC-8460N to WG-PI-FTP to Telegram
+
+![help](img/telegram_druck_help.jpg)
+
+![print](img/telegram_druck_print.jpg)
+
+![pdf](img/telegram_druck_PdfList.jpg)
+
+![tag](img/telegram_druck_tag.jpg)
+
 ## PI Sensor BME280
 
 Man muss beim PI das Interface einschalten.
