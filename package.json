@@ -7,7 +7,9 @@
         "node-red-dashboard": "2.20.0",
         "node-red-contrib-moment": "3.0.3",
         "node-red-contrib-fs-ops": "1.5.0",
-        "node-red-contrib-bme280": "1.0.0"
+        "node-red-contrib-bme280": "1.0.0",
+        "node-red-contrib-startup-trigger": "0.1.0",
+        "node-red-contrib-influxdb": "0.4.0"
     },
     "node-red": {
         "settings": {
